@@ -7,4 +7,6 @@ Useful links:
 
 [What is Azure DDoS Protection?](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
 
+[Azure DDoS Protection reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
+
 
