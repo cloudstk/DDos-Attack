@@ -9,4 +9,6 @@ Useful links:
 
 [Azure DDoS Protection reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
 
+[2022 DDoS attack trends and insights](https://www.microsoft.com/en-us/security/business/security-insider/)
+
 
